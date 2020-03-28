@@ -1,14 +1,9 @@
-MaxwellFDFD
+MaxwellFDFD for MaxwellFDFD-ai
 ===========
-MaxwellFDFD is a MATLAB-based solver package of Maxwell's equations.  It solves the equations by the finite-difference frequency-domain (FDFD) method, and hence the name MaxwellFDFD.
+#### MaxwellFDFD-ai GitHub URL : https://github.com/wonderit/maxwellfdfd-ai
 
-See `INSTALL.md` for installation instruction.
+This forked repository is a modified version of MaxwellFDFD to automatically generate random data to train the AI model by using TensorFlow([MaxwellFDFD-ai](https://github.com/wonderit/maxwellfdfd-ai)).
 
-See `doc/index.html` in MATLAB or any web browser for more detailed introduction and usage.
-
-MaxwellFDFD for MaxwellFDFD-ai(https://github.com/wonderit/maxwellfdfd-ai)
-===========
-This forked repository is a modified version to automatically generate random data from MaxwellFDFD.
 
 When installation is done, open maxwellfdfd folder with Matlab. 
 
@@ -18,3 +13,11 @@ When installation is done, open maxwellfdfd folder with Matlab.
     
 - Simulator input image
     - example/ai/image_input_simulator.m
+
+MaxwellFDFD
+===========
+MaxwellFDFD is a MATLAB-based solver package of Maxwell's equations.  It solves the equations by the finite-difference frequency-domain (FDFD) method, and hence the name MaxwellFDFD.
+
+See `INSTALL.md` for installation instruction.
+
+See `doc/index.html` in MATLAB or any web browser for more detailed introduction and usage.
